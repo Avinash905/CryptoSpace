@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/CryptoSpace/static/css/main.ce2c2d80.css",
+    "main.js": "/CryptoSpace/static/js/main.971286a0.js",
+    "static/js/787.ecd3c886.chunk.js": "/CryptoSpace/static/js/787.ecd3c886.chunk.js",
+    "static/media/btc.png": "/CryptoSpace/static/media/btc.7608bb671d80fddca6fb.png",
+    "index.html": "/CryptoSpace/index.html",
+    "main.ce2c2d80.css.map": "/CryptoSpace/static/css/main.ce2c2d80.css.map",
+    "main.971286a0.js.map": "/CryptoSpace/static/js/main.971286a0.js.map",
+    "787.ecd3c886.chunk.js.map": "/CryptoSpace/static/js/787.ecd3c886.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce2c2d80.css",
+    "static/js/main.971286a0.js"
+  ]
+}
