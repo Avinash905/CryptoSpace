@@ -1,0 +1,46 @@
+.hero {
+  height: 75vh;
+}
+
+.hero div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.hero img {
+  width: 38vw;
+  filter: grayscale(1);
+  animation: imgUp 1.5s linear infinite alternate;
+}
+
+@keyframes imgUp {
+  to {
+    transform: translateY(20px);
+  }
+}
+
+.hero h1 {
+  font-size: 3rem;
+  margin: -30px;
+  color: rgb(155, 154, 154);
+}
+
+@media (max-width: 1000px) {
+  .hero {
+    height: 70vh;
+  }
+  .hero div {
+    height: 70vh;
+  }
+  .hero h1 {
+    margin: 0px;
+  }
+}
+
+@media (max-width: 425px) {
+  .hero h1 {
+    font-size: 2rem;
+  }
+}
