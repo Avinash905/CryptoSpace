@@ -1,4 +1,4 @@
-# 🪙TextUtils
+# 🪙CryptoSpace
 
 <h3>Description :</h3> 
 CryptoSpace is an website that contains a list of top 100 crypto exchanges and also a list of all crypto coins and data related to them.
